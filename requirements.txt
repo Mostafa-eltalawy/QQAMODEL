@@ -1,0 +1,7 @@
+numpy==1.19.5
+logging
+gensim==3.8.3
+spacy ==3.0.5
+pytesseract==0.3.7
+transformers==3.0.0
+
